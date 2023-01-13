@@ -1,0 +1,24 @@
+{
+  "name": "javascripting",
+  "version": "1.0.0",
+  "description": "fundamentals of javascript",
+  "main": "introduction.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashwath-sk/javascripting.git"
+  },
+  "keywords": [
+    "javascript",
+    "basics",
+    "fundamentals"
+  ],
+  "author": "shashwath s k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shashwath-sk/javascripting/issues"
+  },
+  "homepage": "https://github.com/shashwath-sk/javascripting#readme"
+}
